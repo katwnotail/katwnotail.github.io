@@ -2,7 +2,7 @@
 
 My personal portfolio website, showcasing my projects as a Computer Information Systems student.
 
-**Live site:** https://kawtnotail.github.io
+**Live site:** https://katwnotail.github.io
 
 ## Built With
 
